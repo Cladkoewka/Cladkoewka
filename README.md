@@ -37,7 +37,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## 📊 Stats
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cladkoewka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cladkoewka&theme=dark&background=11111)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CLadkoewka?theme=dark&font=Roboto)
 
 
