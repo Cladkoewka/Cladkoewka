@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 
-- **[To-Do List API](https://github.com/Cladkoewka/ToDoListBackend)**: ASP.NET Core 8 project with EF Core, PostgreSQL, Serilog, Docker, and testing tools like xUnit and Moq. Implements CRUD operations for tasks, tags, and users, following Clean Architecture principles.
+- **[To-Do List](https://github.com/Cladkoewka/ToDoListAPI)**: ASP.NET Core 8 project with EF Core, PostgreSQL, Serilog, Docker, and testing tools like xUnit and Moq. Implements CRUD operations for tasks, tags, and users, following Clean Architecture principles.
 - **[30 Nights of Chaos](https://github.com/Cladkoewka/30-Nights-of-Chaos)**: Unity game developed and published on Yandex Games. The project features survival gameplay mechanics and challenging waves of enemies.
 
 ## 📫 Contact Me
