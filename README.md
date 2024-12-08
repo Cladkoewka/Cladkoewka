@@ -13,16 +13,16 @@
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Tools**: Docker, Serilog, Seq, ElasticSearch, Swagger
 - **Testing**: xUnit, Moq, FluentAssertions, AutoFixture
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React.js
 - **Concepts**: Clean Architecture, RESTful APIs, SOLID, FluentValidation
 
 ## 📚 Education
 
 - **MPEI** — Bachelor’s Degree in Computer Science and Engineering (2022-2026)
 
-## 📂 Projects
-
-- **[To-Do List](https://github.com/Cladkoewka/ToDoListAPI)**: ASP.NET Core 8 project with EF Core, PostgreSQL, Serilog, Docker, and testing tools like xUnit and Moq. Implements CRUD operations for tasks, tags, and users, following Clean Architecture principles.
+## 📂 Projects 
+- **[Investment Projects Management](https://github.com/Cladkoewka/InvestmentCompanyFrontend)**: Web application built with React.js an ASP.NET Core 8 for managing investment projects, assessing risks, and tracking profitability.
+- **[To-Do List Web App](https://github.com/Cladkoewka/ToDoListAPI)**: ASP.NET Core 8 project with EF Core, PostgreSQL, Serilog, Docker, and testing tools like xUnit and Moq. Implements CRUD operations for tasks, tags, and users, following Clean Architecture principles.
 - **[30 Nights of Chaos](https://github.com/Cladkoewka/30-Nights-of-Chaos)**: Unity game developed and published on Yandex Games. The project features survival gameplay mechanics and challenging waves of enemies.
 
 ## 📫 Contact Me
