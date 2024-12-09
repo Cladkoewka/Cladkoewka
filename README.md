@@ -9,12 +9,12 @@
 ## 💻 Skills
 
 - **Programming Languages**: C#, C++, Python
-- **Frameworks**: ASP.NET Core, EF Core, Dapper, Mapster, AutoMapper
+- **Frameworks**: ASP.NET Core, EF Core, Dapper, Mapster, AutoMapper, FluentValidation
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools**: Docker, Serilog, Seq, ElasticSearch, Swagger
+- **Tools**: Docker, Kafka, Serilog, Seq, ElasticSearch, Swagger
 - **Testing**: xUnit, Moq, FluentAssertions, AutoFixture
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Concepts**: Clean Architecture, RESTful APIs, SOLID, FluentValidation
+- **Concepts**: Clean Architecture, Microservices, RESTful API, SOLID, 
 
 ## 📚 Education
 
