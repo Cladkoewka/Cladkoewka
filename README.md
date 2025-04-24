@@ -4,23 +4,23 @@
 
 ## 🚀 About Me
 
-.NET backend developer with background in gamedev. Currently studying Computer Science and Engineering at MPEI.
+Go backend developer with background in .NET, currently studying Computer Science and Engineering at MPEI.
 
 ## 💻 Skills
 
-- **Programming Languages**: C#, C++, Python
-- **Frameworks**: ASP.NET Core, EF Core, Dapper, Mapster, AutoMapper, FluentValidation
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools**: Docker, Kafka, Serilog, Seq, ElasticSearch, Swagger
-- **Testing**: xUnit, Moq, FluentAssertions, AutoFixture
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Concepts**: Clean Architecture, Microservices, RESTful API, SOLID, 
+- **Programming Languages**: Go, C#
+- **Frameworks**: Gin, Gorm
+- **Databases**: PostgreSQL, MySql, MongoDB, Redis
+- **Tools**: Docker, Swagger
+- **Frontend (basics)**: React.js, HTML CSS, JavaScript, 
+- **Concepts**: Clean Architecture, Microservices, RESTful API, SOLID, Concurrency
 
 ## 📚 Education
 
 - **MPEI** — Bachelor’s Degree in Computer Science and Engineering (2022-2026)
 
 ## 📂 Projects 
+- **[Movie Manager](https://github.com/Cladkoewka/movie-manager)**: A lightweight, fully-featured RESTful backend for managing movies, posters, and user reviews, built with Go, Gin, GORM, and Redis. It includes Swagger docs, supports filtering, pagination, caching, and integrates with a React frontend.
 - **[Investment Projects Management](https://github.com/Cladkoewka/InvestmentCompanyFrontend)**: Web application built with React.js an ASP.NET Core 8 for managing investment projects, assessing risks, and tracking profitability.
 - **[To-Do List Web App](https://github.com/Cladkoewka/ToDoListAPI)**: ASP.NET Core 8 project with EF Core, PostgreSQL, Serilog, Docker, and testing tools like xUnit and Moq. Implements CRUD operations for tasks, tags, and users, following Clean Architecture principles.
 - **[30 Nights of Chaos](https://github.com/Cladkoewka/30-Nights-of-Chaos)**: Unity game developed and published on Yandex Games. The project features survival gameplay mechanics and challenging waves of enemies.
