@@ -9,7 +9,7 @@ Go backend developer with background in .NET, currently studying Computer Scienc
 ## 💻 Skills
 
 - **Languages**: Go, C#
-- **Go Libraries**: Gin, pgx, slog, godotenv
+- **Go Libraries**: Gin, pgx, squirrel, slog, godotenv, testify
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure & Tools**: Docker, Kubernetes, NGINX, Kafka, Prometheus, Grafana, Swagger
 - **Concepts**: Clean Architecture, SOLID Principles, Microservices, RESTful APIs, Concurrency
