@@ -29,7 +29,6 @@ Go backend developer with background in .NET, currently studying Computer Scienc
 
 - **Email**: [codewarriorms@gmail.com](mailto:codewarriorms@gmail.com)
 - **Telegram**: [@Cladkoewkaa](https://t.me/Cladkoewkaa)
-- **GitHub**: [Cladkoewka](https://github.com/Cladkoewka)
 
 Feel free to explore my repositories and reach out for collaboration!
 
